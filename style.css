@@ -1,0 +1,124 @@
+.caixa {
+  position: relative;
+  width: 850px;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+body{
+  text-align:center;
+  font-family:Open sans, sans-serif;
+  background-color: #F5DEB3;
+  margin: 0px 0px 20px 0px;
+}
+
+h2{
+  color:#2F4F4F;
+   font-size: 40px;
+}
+
+.titulo-hist{
+  color: #696969;
+}
+.titulo-film{
+  color: #5F9EA0;
+}
+.titulo-curio{
+  color: #6B8E23;
+}
+
+section{
+  width: 60%;
+  margin:0 auto;
+}
+section section{
+  width: 100%;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+}
+h3{
+  font-size: 22px;
+  font-style: italic;
+}
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+  }
+a{
+  text-decoration: none;
+  color: #A0522D;
+  font-weight: 700;
+}
+
+.principal{
+  background-color: #DEB887;
+  height: 40px;
+  max-width: 70%;
+  margin: 0 auto;
+  border-radius: 10px;
+  }
+.principal a{
+  color: white;
+  text-decoration: underline;
+    font-weight: normal;
+}
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+.principal a:hover{
+  color: #C78C19;
+  text-decoration: underline;
+}
+button{
+  background-color: #DEB887;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+  transition: 1s all;
+  cursor: pointer;
+}
+
+.enviar:hover  {
+  background: #C78C19;
+  transform: scale(1.1);
+}
+
+.footer{
+  height: 40px;
+  margin: 0 auto;
+  padding-top: 30px;
+  font-size: 10px;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+thead{
+  background: #A0522D;
+  color: white;
+  font-size: bold;
+}
+
+td, th{
+  border: 1px solid #000000;
+  padding: 8px 15px;
+  
+}
