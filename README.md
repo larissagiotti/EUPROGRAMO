@@ -1,5 +1,7 @@
 # Studios Ghibli
-Projeto autoral desenvolvido para fins educacionais do curso Eu Progr{amo} da Programaria, com o foco em HTM, CSS e uma introdução de JS.
+Projeto autoral desenvolvido para fins educacionais do curso Eu Progr{amo} da Programaria, com o foco em HTML, CSS e uma introdução de JS.
+
+>>>https://studioghibli.larissagiotti.repl.co/<<<
 
 ##
 <div align="center">
