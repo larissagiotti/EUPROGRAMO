@@ -1,5 +1,5 @@
 # Studios Ghibli
-Atividade desenvolvida para fins educacionais do curso Eu Progr{amo} da Programaria
+Atividade desenvolvida para fins educacionais do curso Eu Progr{amo} da Programaria, com o foco em HTM, CSS e uma introdução de JS.
 
 ##
 <div align="center">
